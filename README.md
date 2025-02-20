@@ -10,7 +10,6 @@
 - 🔍 Buscando oportunidades com **grandes desafios** na área de TI;
 - 🏠 Baseado em **São Paulo, Brasil**;
 - 👨‍💻 Trabalhei com **React.js, Next.js, NestJS, Node.js, Python (FastAPI), Golang, Java e MySQL**;
-- 📈 Desenvolvi um projeto de **notificações usando NestJS**;
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** pela **São Judas**;
 - 📚 Certificado pela **Rocketseat** em **NestJS, React e Next.js**.
 
