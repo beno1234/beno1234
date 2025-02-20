@@ -36,11 +36,11 @@
 [![GitHub Repositories](https://github-readme-stats.vercel.app/api?username=beno1234&show_icons=true&theme=radical&count_private=true)](https://github.com/beno1234?tab=repositories)
 
 🔹 Alguns Projetos:
-- 💻 [Projeto de Notificações (NestJS)](https://github.com/beno1234/notifications-nestjs)
 - 📈 [BMouse Productions](https://www.bmouseproductions.com/)
 - ✨ [Devout](https://devout-sage.vercel.app/)
 - ✨ [Jayme Jonjardim](https://website-jayme.vercel.app/)
 - 📈 [Agroecologia](https://site-agroecologia.vercel.app/)
+- 💻 [Projeto de Notificações (NestJS)](https://github.com/beno1234/notifications-nestJs)
 
 ---
 
